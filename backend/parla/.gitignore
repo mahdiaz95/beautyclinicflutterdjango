@@ -1,0 +1,4 @@
+.env
+.crm/migrations/
+liara.json
+__pycache__/
